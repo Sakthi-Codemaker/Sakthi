@@ -1,4 +1,4 @@
-<img src=https://github.com/design-and-code width="100%"/>
+<img src=[https://github.com/design-and-code](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png) width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sakthivel+V+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Firebase;MCA+Student+%7C+CGPA+9.0+%40+HCET;Building+Products+from+Scratch+to+Ship" alt="Typing SVG" />

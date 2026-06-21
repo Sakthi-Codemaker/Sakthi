@@ -60,7 +60,6 @@ const sakthivel = {
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & APIs
@@ -178,7 +177,7 @@ const sakthivel = {
 
 | Degree | Institution | University | Year | Score |
 |:-------|:------------|:-----------|:-----|:------|
-| **MCA** — Master of Computer Applications | Hindusthan College of Engineering & Technology, Coimbatore | Anna University | 2024 – 2026 | CGPA: **9.0** (1st Year) |
+| **MCA** — Master of Computer Applications | Hindusthan College of Engineering & Technology, Coimbatore | Anna University | 2024 – 2026 | CGPA: **9.0**|
 | **BCA** — Bachelor of Computer Applications | Sri Vidya Mandir Arts & Science College, Uthangarai | Periyar University | 2021 – 2024 | CGPA: **8.2** |
 
 </div>

@@ -1,13 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Sakthivel V</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">He/Him</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN & Java | MCA Graduate | Intern @ Biocon | Open to Opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakthi-Codemaker&label=Profile%20views&color=0e75b6&style=flat" alt="Sakthi-Codemaker" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sakthi-Codemaker](https://github.com/Sakthi-Codemaker)
 
-- 💬 Ask me about **Full Stack, React, Firebase, Node.js**
+- 💼 Currently **Intern @ Biocon** | 🎓 **MCA Graduate** | 🚀 **Open to Opportunities**
+
+- 💬 Ask me about **MERN Stack, Java, React, Node.js, MongoDB**
 
 - 📫 How to reach me **sakthishakthi9489@gmail.com**
 
@@ -15,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakthivel-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthivel-v" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakthivel-v-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthivel-v-developer" height="30" width="40" /></a>
 <a href="https://github.com/Sakthi-Codemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sakthi-Codemaker" height="30" width="40" /></a>
 <a href="mailto:sakthishakthi9489@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sakthishakthi9489@gmail.com" height="30" width="40" /></a>
 </p>
